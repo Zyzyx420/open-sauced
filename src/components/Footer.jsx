@@ -33,6 +33,7 @@ function Footer() {
              aria-label="Visit Open Sauced GitHub Organisation">
             <FaYoutube className="text-offWhite hover:text-accent" />
           </a>
+          <p>Testabsatz hahaaaa</p>
         </li>
         <li className="p-2 sm:mr-5">
           <a href="https://www.dev.to/opensauced"
